@@ -1,6 +1,6 @@
-![]([https://github.com/user/banner.png](https://i.gifer.com/6M8G.gif)) 
-<h1 align="center">Hi 👋, I'm Pial Ebny Habib</h1>
-<h3 align="center">A passionate software engineer from Bangladesh</h3>
+<img align="center" alt="Coding" height="400" width="1000" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<h1 align="center">Hi 👋 I'm Pial Ebny Habib</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/6M8G.gif">
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 
@@ -33,3 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pialebnyhabib&show_icons=true&locale=en" alt="pialebnyhabib" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pialebnyhabib&" alt="pialebnyhabib" /></p>
+
+
+
