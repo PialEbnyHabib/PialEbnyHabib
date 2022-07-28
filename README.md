@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" height="400" width="800" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<img align="center" alt="Coding" height="400" width="850" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 <h1 align="center">Hi 👋 I'm Pial Ebny Habib</h1>
 <h3 align="center">A passionate software engineer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/6M8G.gif">
